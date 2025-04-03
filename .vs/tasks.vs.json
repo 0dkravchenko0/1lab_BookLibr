@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-WpfApp1",
+      "appliesTo": "WpfApp1.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
